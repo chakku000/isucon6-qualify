@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 OS_TARGETS="linux darwin freebsd windows"
 
 for os in $OS_TARGETS; do
